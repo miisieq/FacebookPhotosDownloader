@@ -1,0 +1,5 @@
+.idea
+/downloaded/*
+/!downloaded/.gitkeep
+/vendor
+/.env
